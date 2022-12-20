@@ -4,20 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e4cdc96-2338-47fb-8e3d-f42a35a1c234" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/psp/ClienteParaRecuento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/psp/ClienteVotador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/psp/HiloAtenderRecuento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/psp/HiloRecibirVotacion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/psp/Servidor.java" afterDir="false" />
+    <list default="true" id="6e4cdc96-2338-47fb-8e3d-f42a35a1c234" name="Changes" comment="Commit 19/12">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +45,7 @@
     "last_opened_file_path": "C:/Users/Juan/Desktop/2 DAM Windows/PSP/Tema 3/PSP-EscaneoDePuertos-Juan"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ClienteParaRecuento">
+  <component name="RunManager" selected="Application.Servidor">
     <configuration name="ClienteParaRecuento" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="psp.ClienteParaRecuento" />
       <module name="PSP-Votaciones-Juan" />
@@ -114,6 +102,18 @@
       <option name="presentableId" value="Default" />
       <updated>1671490469705</updated>
     </task>
+    <task id="LOCAL-00001" summary="Commit 19/12">
+      <created>1671498301778</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1671498301778</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit 19/12" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 19/12" />
   </component>
 </project>

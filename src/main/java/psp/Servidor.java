@@ -26,10 +26,6 @@ un cliente votador;
 un cliente que consulta votos.
      */
 
-    /*
-    BORRADOR:
-
-     */
     public static void main(String[] args) throws IOException {
         Map<String, Integer> votaciones = new HashMap<>();
         byte[] bufferVotaciones = new byte[1024];
